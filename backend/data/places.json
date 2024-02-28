@@ -1,0 +1,122 @@
+[ 
+   {
+    "id": "p1",
+    "title": "giza-pyramids",
+    "image": {
+      "src": "pyramid.jpg",
+      "alt": "giza Pyramids are giant tombs built to bury the pharaohs after they died."
+    },
+    "lat": 54.5588,
+    "lon": -80.344
+  },
+  {
+    "id": "p2",
+    "title": "abu-simbel",
+    "image": {
+      "src": "abu-simbel.jpg",
+      "alt": "Abu Simbel, site of two temples built by the Egyptian king Ramses II."
+    },
+    "lat": 44.5588,
+    "lon": -80.344
+  },
+  {
+    "id": "p3",
+    "title": "siwa-oasis",
+    "image": {
+      "src": "siwa-oasis.jpg",
+      "alt": "The Siwa Oasis is an urban oasis in Egypt."
+    },
+    "lat": 25.0,
+    "lon": 0.0
+  },
+  {
+    "id": "p4",
+    "title": "alexandria",
+    "image": {
+      "src": "alex.jpg",
+      "alt": "Alexandria is the second largest city in Egypt and the largest city on the Mediterranean coast."
+    },
+    "lat": 27.9881,
+    "lon": 86.925
+  },
+  {
+    "id": "p5",
+    "title": "dahab",
+    "image": {
+      "src": "dahab.jpg",
+      "alt": "Dahab is a small Egyptian town on the southeast coast of the Sinai Peninsula in Egypt."
+    },
+    "lat": 18.2208,
+    "lon": -66.5901
+  },
+  {
+    "id": "p6",
+    "title": "elazhar",
+    "image": {
+      "src": "game3.jpg",
+      "alt": "Elazhar is a mosque in Cairo, Egypt in the historic Islamic core of the city."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": "p7",
+    "title": "El-alamein",
+    "image": {
+      "src": "alamein.jpg",
+      "alt": "El Alamein is a town in the northern Matrouh Governorate of Egypt."
+    },
+    "lat": -3.4653,
+    "lon": -62.2159
+  },
+  {
+    "id": "p8",
+    "title": "Luxor",
+    "image": {
+      "src": "Luxor.jpg",
+      "alt": "Luxor is a city in Upper Egypt, which includes the site of the Ancient Egyptian."
+    },
+    "lat": 64.9631,
+    "lon": -19.0208
+  },
+  {
+    "id": "p9",
+    "title": "Valley of the kings",
+    "image": {
+      "src": "valley-of-kings.jpg",
+      "alt": "valley of the kings truly the world's largest outdoor museum!."
+    },
+    "lat": 34.9949,
+    "lon": 135.785
+  },
+  {
+    "id": "p10",
+    "title": "Zamalek city",
+    "image": {
+      "src": "zamalek.jpg",
+      "alt": "El-Zamalek ,It is an affluent district on a man-made ."
+    },
+    "lat": -18.2871,
+    "lon": 147.6992
+  },
+  {
+    "id": "p11",
+    "title": "The Nile",
+    "image": {
+      "src": "the-nile.jpg",
+      "alt": "The Nile is a major north-flowing river in northeastern Africa. "
+    },
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "id": "p12",
+    "title": "Saint Catherine",
+    "image": {
+      "src": "saint.jpg",
+      "alt": "Catherine city is the most special and distinguished city in Sinai."
+    },
+    "lat": 36.1069,
+    "lon": -112.1129
+  }
+]
